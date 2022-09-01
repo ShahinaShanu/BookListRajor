@@ -8,7 +8,7 @@ Note: before making the project make sure the 4 Nuget packages installed in your
 3. Microsoft.EntityFrameworkCore.SqlServer
 4. Microsoft.EntityFrameworkCore.Tools
 after installation of that 4 packages you need to create connection string in AppSettings.json file in project.
-Then Create Model for creating database and table.
+Then Create Model for creating database and table. we need to add our Book to database by using <Dbset> type.
 open Package manager Consoe and type: Add-Migration [MeaningfulUserDefinedName] then Enter
 also type another Cmd : Update-Database and press Enter
 successfully created db and table.
