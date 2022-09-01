@@ -15,4 +15,4 @@ successfully created db and table.
 
 
 if Package not installing then check the version and install related package
-just like in console type: Install-PkgName //Install-Microsoft.EntityFrameworkCore
+just like in console type: Install-Package <pkgName> -version //Eg: Install-Package Microsoft.EntityFrameworkCore.SqlServer -version 3.1.10
