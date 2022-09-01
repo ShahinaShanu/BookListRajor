@@ -375,3 +375,4 @@ D:\shahina\BookListRajor\BookListRajor\bin\Debug\netcoreapp3.1\runtimes\win\lib\
 D:\shahina\BookListRajor\BookListRajor\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Index.cshtml.g.cs
 D:\shahina\BookListRajor\BookListRajor\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\CreateBook.cshtml.g.cs
 D:\shahina\BookListRajor\BookListRajor\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\EditBook.cshtml.g.cs
+D:\shahina\BookListRajor\BookListRajor\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Upsert.cshtml.g.cs
