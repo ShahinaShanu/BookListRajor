@@ -12,3 +12,7 @@ Then Create Model for creating database and table.
 open Package manager Consoe and type: Add-Migration [MeaningfulUserDefinedName] then Enter
 also type another Cmd : Update-Database and press Enter
 successfully created db and table.
+
+
+if Package not installing then check the version and install related package
+just like in console type: Install-PkgName //Install-Microsoft.EntityFrameworkCore
